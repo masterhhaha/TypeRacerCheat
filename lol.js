@@ -1,1 +1,58 @@
-function _0x478c(_0x4068ca,_0x562db7){var _0x302aec=_0x302a();return _0x478c=function(_0x478c5c,_0x1e59b6){_0x478c5c=_0x478c5c-0x129;var _0xf5c37=_0x302aec[_0x478c5c];return _0xf5c37;},_0x478c(_0x4068ca,_0x562db7);}var _0x2ea10c=_0x478c;function _0x302a(){var _0x314f28=['%c\x20Finished\x20typing\x20all\x20characters!','color:\x20lime;\x20font-weight:\x20bold;','%c\x20Failed\x20to\x20load\x20jQuery.\x20Check\x20your\x20internet\x20connection.','preventDefault','5519004jrWPVb','%c\x20Warning:\x20WPM\x20above\x20100\x20may\x20trigger\x20captcha\x20tests','length','2HTTWyM','11330832yFPHuX',':\x20\x27','56uvjySh','368015VrzIQU','background:\x20#222;\x20color:\x20#bada55;\x20font-size:\x2018px;\x20font-weight:\x20bold;\x20padding:\x204px\x200;','keypress','onload','color:\x20#36a2eb;','1826909mwnQqa','%c\x20Loading\x20script\x20components...','%c\x20Text\x20detected\x20(','text','%c\x20Made\x20by\x20master\x20%c\x20Join\x20Discord:\x20https://discord.gg/xZnPWTQBtb\x20','background:\x20#7289DA;\x20color:\x20white;\x20font-size:\x2018px;\x20padding:\x204px\x200;','color:\x20green;','14282685DcQUkb','414273FbMhmf','1385935THKAQB','\x20characters)','log','onerror','getElementsByTagName','createElement','script','error','%c\x20Press\x20any\x20key\x20to\x20type\x20the\x20next\x20character','color:\x20#FFD700;','val'];_0x302a=function(){return _0x314f28;};return _0x302a();}(function(_0x27c00f,_0x2c5ffb){var _0x22945c=_0x478c,_0x498863=_0x27c00f();while(!![]){try{var _0x52b036=parseInt(_0x22945c(0x12a))/0x1+parseInt(_0x22945c(0x14a))/0x2*(parseInt(_0x22945c(0x137))/0x3)+-parseInt(_0x22945c(0x147))/0x4+-parseInt(_0x22945c(0x138))/0x5+parseInt(_0x22945c(0x14b))/0x6+parseInt(_0x22945c(0x12f))/0x7*(parseInt(_0x22945c(0x129))/0x8)+-parseInt(_0x22945c(0x136))/0x9;if(_0x52b036===_0x2c5ffb)break;else _0x498863['push'](_0x498863['shift']());}catch(_0x549ffa){_0x498863['push'](_0x498863['shift']());}}}(_0x302a,0xeeab0),console[_0x2ea10c(0x13a)](_0x2ea10c(0x133),_0x2ea10c(0x12b),_0x2ea10c(0x134)),(function(){var _0x52f6e6=_0x2ea10c;console['log'](_0x52f6e6(0x130),'color:\x20orange;\x20font-style:\x20italic;');var _0x3dbda0=document[_0x52f6e6(0x13d)](_0x52f6e6(0x13e));_0x3dbda0['src']='https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js',_0x3dbda0[_0x52f6e6(0x12d)]=function(){var _0x58b0d7=_0x52f6e6;console['log']('%c\x20jQuery\x20loaded\x20successfully!',_0x58b0d7(0x135)),jQuery['noConflict'](),function(_0x590d5d){var _0x579495=_0x58b0d7;console[_0x579495(0x13a)]('%c\x20Character-by-character\x20typing\x20assistant\x20activated',_0x579495(0x144));var _0x41eb88='',_0x320545=0x0,_0x1deb2d=![];_0x590d5d('body')['on'](_0x579495(0x12c),'.txtInput',function(_0x14f2b6){var _0x1848a6=_0x579495;_0x14f2b6[_0x1848a6(0x146)]();!_0x1deb2d&&(_0x41eb88=_0x590d5d('.inputPanel\x20tr:first')[_0x1848a6(0x132)](),console[_0x1848a6(0x13a)](_0x1848a6(0x131)+_0x41eb88['length']+_0x1848a6(0x139),_0x1848a6(0x141)),_0x1deb2d=!![]);if(_0x320545<_0x41eb88[_0x1848a6(0x149)]){var _0xd448e2=_0x41eb88[_0x320545];_0x590d5d(this)[_0x1848a6(0x142)](_0x590d5d(this)['val']()+_0xd448e2),_0x320545%0x14===0x0&&console[_0x1848a6(0x13a)]('%c\x20Typed\x20character\x20#'+_0x320545+_0x1848a6(0x14c)+_0xd448e2+'\x27',_0x1848a6(0x12e)),_0x320545++;}else console[_0x1848a6(0x13a)](_0x1848a6(0x143),'color:\x20green;\x20font-weight:\x20bold;');}),console[_0x579495(0x13a)](_0x579495(0x140),'color:\x20#00BFFF;'),console[_0x579495(0x13a)](_0x579495(0x148),'color:\x20#FF6347;');}(jQuery);},_0x3dbda0[_0x52f6e6(0x13b)]=function(){var _0x3c9fef=_0x52f6e6;console[_0x3c9fef(0x13f)](_0x3c9fef(0x145),'color:\x20red;');},document[_0x52f6e6(0x13c)]('head')[0x0]['appendChild'](_0x3dbda0);}()));
+console.log(
+  "%c Made by master %c Join Discord: https://discord.gg/xZnPWTQBtb ",
+  "background: #222; color: #bada55; font-size: 18px; font-weight: bold; padding: 4px 0;",
+  "background: #7289DA; color: white; font-size: 18px; padding: 4px 0;"
+);
+
+(function() {
+  console.log("%c Loading script components...", "color: orange; font-style: italic;");
+  
+  var jq = document.createElement('script');
+  jq.src = "https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js";
+  
+  jq.onload = function() {
+    console.log("%c jQuery loaded successfully!", "color: green;");
+    
+    jQuery.noConflict();
+    (function($) {
+      console.log("%c Character-by-character typing assistant activated", "color: lime; font-weight: bold;");
+      
+      var textToType = "";
+      var currentCharIndex = 0;
+      var isInitialized = false;
+      
+      $('body').on('keypress', '.txtInput', function(e) {
+        e.preventDefault();
+        
+        if (!isInitialized) {
+          textToType = $('.inputPanel tr:first').text();
+          console.log("%c Text detected (" + textToType.length + " characters)", "color: #FFD700;");
+          isInitialized = true;
+        }
+        
+        if (currentCharIndex < textToType.length) {
+          var currentChar = textToType[currentCharIndex];
+          
+          $(this).val($(this).val() + currentChar);
+          
+          if (currentCharIndex % 20 === 0) {
+            console.log("%c Typed character #" + currentCharIndex + ": '" + currentChar + "'", "color: #36a2eb;");
+          }
+          
+          currentCharIndex++;
+        } else {
+          console.log("%c Finished typing all characters!", "color: green; font-weight: bold;");
+        }
+      });
+      
+      console.log("%c Press any key to type the next character", "color: #00BFFF;");
+      console.log("%c Warning: WPM above 100 may trigger captcha tests", "color: #FF6347;");
+    })(jQuery);
+  };
+  
+  jq.onerror = function() {
+    console.error("%c Failed to load jQuery. Check your internet connection.", "color: red;");
+  };
+  
+  document.getElementsByTagName('head')[0].appendChild(jq);
+})();
